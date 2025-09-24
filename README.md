@@ -30,10 +30,15 @@ It provides users with detailed stock information, visualization, and predictive
 ## 📂 Project Structure
 Stockastic-main/
 │-- 01_🏛️_Stock_Info.py # Stock information page
+
 │-- stock_info.py # Displays stock details
+
 │-- stock_prediction.py # ML model for stock prediction
+
 │-- helper.py # Utility functions
+
 │-- requirements.txt # Dependencies
+
 │-- README.md # Project documentation
 
 
